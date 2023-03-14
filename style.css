@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex: 1;
+}
+
+
+header{
+    display: flex;
+    flex:1;
+    background-color: darkslateblue;
+
+}
+
+ 
+
+p{
+    display: flex;
+    flex: 1;
+    font-size: 32px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    font-style: italic;
+    
+
+}
+
+a{  
+    display: flex;
+    text-decoration: none;
+    color: black;
+   
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+    flex:1;
+    justify-content: end;
+    align-items: center;
+    margin-right: 100px;
+   
+
+    
+}
+
+.title{
+    display: flex;
+     color: aqua;
+}
+ 
