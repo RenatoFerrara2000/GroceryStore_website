@@ -115,3 +115,42 @@ button{
      border-color:rgb(95, 111, 156);
      
 }
+
+
+
+
+.quote{
+    display: flex;
+    background-color: rgb(210, 247, 77);
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    flex-direction: column;
+}
+
+.testo{
+    display: flex;
+    flex: 1;
+    font-size: 22px;
+    font-weight:500;
+    font-family:cursive
+}
+
+
+.maker {
+    display: flex;
+    flex: 1;
+    font-size: 18px;
+    font-weight:700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     align-self: flex-end; 
+     margin-right: 160px;
+}
+
+
+footer{
+    display: flex;
+    flex:1;
+    background-color: #E5E7EB;
+   justify-content: center;
+}
